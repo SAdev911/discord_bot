@@ -1,0 +1,82 @@
+{
+  "keys": [
+    {
+      "key": "VIP-0FAW-AVMY-1WH2-LR33",
+      "type": "vip",
+      "roleId": "1500488481825362106",
+      "used": true,
+      "usedBy": "1325600181416231033",
+      "createdBy": "1325600181416231033",
+      "lockedTo": null,
+      "createdAt": 1777823343370,
+      "usedAt": 1777823486445,
+      "expiresAt": 1780415486445,
+      "expired": false,
+      "reminded": false
+    },
+    {
+      "key": "VIP-6EC9-HUQZ-7GOY-7UT7",
+      "type": "vip",
+      "roleId": "1500488481825362106",
+      "used": false,
+      "usedBy": null,
+      "createdBy": "1325600181416231033",
+      "lockedTo": null,
+      "createdAt": 1777823343371,
+      "usedAt": null,
+      "expiresAt": null,
+      "expired": false,
+      "reminded": false
+    },
+    {
+      "key": "VIP-ANNE-LCPK-XZUA-U2KZ",
+      "type": "vip",
+      "roleId": "1500488481825362106",
+      "used": false,
+      "usedBy": null,
+      "createdBy": "1325600181416231033",
+      "lockedTo": null,
+      "createdAt": 1777823343372,
+      "usedAt": null,
+      "expiresAt": null,
+      "expired": false,
+      "reminded": false
+    },
+    {
+      "key": "VIP-53MX-82G4-RCO5-0MYA",
+      "type": "vip",
+      "roleId": "1500488481825362106",
+      "used": false,
+      "usedBy": null,
+      "createdBy": "1325600181416231033",
+      "lockedTo": null,
+      "createdAt": 1777823343373,
+      "usedAt": null,
+      "expiresAt": null,
+      "expired": false,
+      "reminded": false
+    },
+    {
+      "key": "VIP-DP2J-MVNJ-B5DT-LRCU",
+      "type": "vip",
+      "roleId": "1500488481825362106",
+      "used": false,
+      "usedBy": null,
+      "createdBy": "1325600181416231033",
+      "lockedTo": null,
+      "createdAt": 1777823343373,
+      "usedAt": null,
+      "expiresAt": null,
+      "expired": false,
+      "reminded": false
+    }
+  ],
+  "users": {
+    "1325600181416231033": {
+      "xp": 15,
+      "level": 1,
+      "coins": 150,
+      "messages": 2
+    }
+  }
+}

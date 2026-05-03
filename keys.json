@@ -1,0 +1,15 @@
+{
+  "keys": [
+    {
+      "key": "VIP-CZFV-S1XU-RMTW-CEVQ",
+      "type": "vip",
+      "roleId": "1500488481825362106",
+      "used": false,
+      "usedBy": null,
+      "createdBy": "1325600181416231033",
+      "createdAt": 1777820250217,
+      "usedAt": null,
+      "expiresAt": 1780412250217
+    }
+  ]
+}
